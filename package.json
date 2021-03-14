@@ -1,7 +1,8 @@
 {
-  "name": "npmdemo",
-  "version": "0.1.0",
+  "name": "kzr-ui-zr",
+  "version": "0.1.2",
   "private": false,
+  "main":"dist/npmdemo.umd.min.js",
   "author": {
     "name": "KZR1186785308",
     "hua": "社会坑"
